@@ -1,5 +1,3 @@
-# Homework 4: The Design and Testing of a Course Registration System
-
 ## Authors:
 * Allison Kim - cgm7vq 
 * Aaron Ko - wwr7nu 
